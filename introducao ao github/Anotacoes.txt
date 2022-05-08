@@ -1,0 +1,7 @@
+Link de dawloand do git: https://git-scm.com/downloads
+O git é um sistema de versionamento de código.
+
+Git status - verifica od arquivos no repositorio
+git add . - adiciona os arquivos
+git commit -m "mensagem"
+git push origin main - envia para o respositorio remoto github

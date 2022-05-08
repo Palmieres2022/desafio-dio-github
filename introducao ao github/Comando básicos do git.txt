@@ -1,0 +1,24 @@
+- Iniciando o Repositório
+  git init
+
+- Apagando um Respositório
+  rm -rf .git
+
+- Listando arquivos modificados 
+  git status
+
+- Desfazendo alterações
+ - arquivos não monitorados
+   git checkout .
+   git clean -df
+
+- Removendo arquivos do stage
+  git reset
+
+- Desfazendo o último commit
+  git revert HEAD
+
+- Renomear Commit
+  git commit --amend
+
+
